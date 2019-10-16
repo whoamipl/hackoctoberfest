@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo "$HOME"
+
 blue="\033[0;34m"
 brightblue="\033[1;34m"
 cyan="\033[0;36m"
